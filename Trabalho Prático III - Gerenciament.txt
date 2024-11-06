@@ -1,0 +1,61 @@
+Trabalho Prático III - Gerenciamento de Projetos de Inovação
+ALUNO - CAUÃ ALVES LACERDA 2° PERIODO
+
+1. Introdução
+Neste trabalho, será discutido o gerenciamento de um projeto de desenvolvimento de um sistema de reserva online para hotéis. Este sistema tem como principal objetivo permitir que os clientes façam reservas de forma prática e ágil pela internet, proporcionando uma experiência de usuário sem erros e contribuindo para a eficiência do hotel na gestão de seu inventário de quartos.
+
+2. Fases do Ciclo de Vida do Projeto
+Fase 1: Iniciação
+A fase de iniciação é a primeira etapa do projeto e é onde o gestor de projetos deve estabelecer as bases para o sucesso. Entre as principais atividades, destacam-se:
+
+Definição do Objetivo do Projeto: O foco principal é criar um sistema funcional para reservas de quartos, que seja fácil de usar, rápido e sem falhas. O objetivo é proporcionar aos clientes uma maneira eficiente de realizar suas reservas e ao hotel uma ferramenta que ajude no gerenciamento do inventário.
+
+Identificação de Stakeholders: A primeira coisa que o gestor deve fazer é identificar todos os envolvidos ou afetados pelo projeto. Isso inclui os donos do hotel, a equipe de TI, designers, e fornecedores de soluções de pagamento online.
+
+Análise de Viabilidade: O gestor de projetos precisa avaliar se o projeto é viável, tanto do ponto de vista técnico quanto financeiro. Será necessário analisar se o orçamento é suficiente e se as tecnologias disponíveis são adequadas para o que se deseja implementar.
+
+Criação do Documento de Iniciação: Para formalizar o início do projeto, o gestor deve elaborar o documento de abertura do projeto, detalhando os objetivos, o escopo inicial e os principais stakeholders envolvidos.
+
+Fase 2: Planejamento
+Na fase de planejamento, o projeto começa a ganhar forma mais definida. O gestor de projeto vai coordenar atividades como:
+
+Definição do Escopo Detalhado: Definir claramente o que será entregue no final do projeto, incluindo funcionalidades específicas do sistema, como o mecanismo de busca por disponibilidade de quartos, integração com sistemas de pagamento e envio de confirmações de reserva para o cliente.
+
+Planejamento de Recursos: É necessário identificar e alocar os recursos que serão utilizados, como a equipe de desenvolvimento, designers para a interface do sistema, servidores de hospedagem e ferramentas para o gerenciamento do projeto.
+
+Elaboração do Cronograma: O gestor de projeto deve criar um cronograma que contenha todas as etapas do projeto, desde o desenvolvimento inicial até a fase de testes e lançamento. Essa agenda deve ser realista e detalhada, com marcos e prazos bem definidos.
+
+Estimativa de Custos: Estabelecer um orçamento é essencial. O gestor precisa prever todos os custos do projeto, incluindo mão de obra, licenças de software, infraestrutura e testes.
+
+Gestão de Riscos: Antes de começar, é importante identificar possíveis riscos, como atraso no cronograma, problemas técnicos ou imprevistos financeiros, e desenvolver um plano para minimizar esses riscos.
+
+Fase 3: Execução
+Agora que o planejamento está feito, é hora de colocar o projeto em prática. A fase de execução envolve várias atividades, tais como:
+
+Desenvolvimento do Sistema: A equipe de desenvolvimento começa a criar o sistema de reserva online, garantindo que o produto final atenda aos requisitos definidos na fase de planejamento.
+
+Coordenação da Equipe: O gestor de projetos precisa garantir que todos os membros da equipe estejam alinhados, trabalhando de forma integrada e seguindo as especificações do projeto.
+
+Testes Durante o Desenvolvimento: Durante a execução, é fundamental realizar testes contínuos para garantir que as funcionalidades do sistema estejam operando corretamente, como a reserva de quartos, o pagamento online e a geração de confirmações de reserva.
+
+Fase 4: Monitoramento e Controle
+Esta fase envolve o acompanhamento constante do progresso do projeto para garantir que ele esteja sendo executado conforme o planejado. O gestor de projetos deve:
+
+Acompanhar o Progresso: É essencial monitorar o andamento das tarefas e garantir que os prazos estejam sendo cumpridos. O gestor deve se reunir frequentemente com a equipe para verificar o status de cada etapa do desenvolvimento.
+
+Gerenciar Mudanças: Durante o projeto, mudanças podem ser necessárias. O gestor de projeto precisa estar preparado para lidar com ajustes no escopo, cronograma ou orçamento e garantir que essas mudanças sejam documentadas e comunicadas aos stakeholders.
+
+Controle de Qualidade: O gestor deve implementar práticas de controle de qualidade para verificar se o sistema atende aos padrões definidos no planejamento e se todas as funcionalidades estão operando corretamente.
+
+Comunicação Contínua: O gestor de projetos deve manter todos os stakeholders atualizados sobre o progresso, enviando relatórios de status e discutindo eventuais problemas ou mudanças no projeto.
+
+Fase 5: Encerramento
+Após a execução e o monitoramento, chega o momento de finalizar o projeto. Na fase de encerramento, as atividades principais incluem:
+
+Entrega do Produto Final: O sistema de reservas online deve ser entregue ao cliente (o hotel), funcionando conforme o planejado e pronto para ser utilizado pelos clientes finais.
+
+Avaliação Pós-Implementação: Após a entrega, o gestor deve realizar uma análise para verificar se o projeto atingiu seus objetivos e se há melhorias a serem feitas.
+
+Documentação Final: O gestor de projetos precisa garantir que toda a documentação necessária, como o código-fonte, manual do usuário e relatórios técnicos, seja entregue ao hotel.
+
+Fechamento Formal do Projeto: Finalmente, o projeto é formalmente encerrado. O gestor deve assegurar que todas as atividades tenham sido concluídas e que todos os requisitos foram cumpridos.
